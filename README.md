@@ -4,6 +4,6 @@ Takes a source element (which the height will be based upon), and a min window w
 
 ## Usage
 
-```
+```javascript
 $('#target').equalHeight('1280', '#source');
 ```
